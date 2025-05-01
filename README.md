@@ -52,6 +52,8 @@ DISASSM_SUPPORT_8085	EQU	1
 
 Демонстрация использования дизассемблера представлена в файле `disassm.launcher.asm` как самостоятельной программы, откомпилированная версия находится в файле `disassm.rk`, запуск дизассемблера производится директивой `<G,7000>`.
 
+![Screenshot](https://raw.githubusercontent.com/radio-86rk/disassm8085.v2/refs/heads/main/screenshot.png) 
+
 ## Лицензия
 
 [**MIT**](https://github.com/radio-86rk/disassm8085/blob/main/LICENSE) © [**Vital72**](https://86rk.ru/)
